@@ -12,7 +12,7 @@ namespace UnitTestProject1
         {
             int first = 1;
             int second = 2;
-            int expectedResult = 3; ;
+            int expectedResult = 3;
         }
     }
 }
