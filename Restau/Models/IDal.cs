@@ -8,9 +8,5 @@ namespace Restau.Models
     interface IDal : IDisposable
     {
         List<Restaurant> GetRestaurants();
-
-        public void CreateRestaurants()
-        {
-        }
     }
 }

@@ -7,7 +7,7 @@ namespace Restau.Models
 {
     public class vote
     {
-        public int id { get; set; }
+        public int Id { get; set; }
         public virtual Restaurant Restaurant { get; set; }
         public virtual User User { get; set; }
 
